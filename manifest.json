@@ -1,0 +1,16 @@
+{
+  "name": "Add controls to videos",
+  "description": "Adds controls to videos when they are hidden!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icon.png"
+    }
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
