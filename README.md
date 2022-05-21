@@ -1,5 +1,5 @@
 # Video Controls
-Chrome extension that adds controls on videos
+Chrome extension that adds controls to videos playing in your browser
 
 ## How to use:
 1. Download the [zip file](https://github.com/LucaBn/video-controls/archive/refs/heads/main.zip)
